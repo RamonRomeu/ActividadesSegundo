@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?>
+	<enemigos>
+		<enemigo>	
+			<nombre></nombre>
+			<vitalidad>1</vitalidad>
+			<daño>2</daño>
+			<defensa>3</defensa>
+			<frequencia>4</frequencia>
+			<experiencia>5</experiencia>
+			<conjuntoarmas>
+				<arma>
+					<id>1</id>
+					<tipo>1</tipo>
+					<alcance>1</alcance>
+				</arma>
+				<arma>
+					<id>1</id>
+					<tipo>1</tipo>
+					<alcance>1</alcance>
+				</arma>
+			</conjuntoarmas>
+		</enemigo>
+		
+		<enemigo>
+			<nombre>1</nombre>
+			<vitalidad>1</vitalidad>
+			<daño>1</daño>
+			<defensa>1</defensa>
+			<frequencia>1</frequencia>
+			<experiencia>1</experiencia>
+			<conjuntoarmas>
+				<arma>
+					<id>1</id>
+					<tipo>1</tipo>
+					<alcance>1</alcance>
+				</arma>
+			</conjuntoarmas>
+		</enemigo>
+		
+		<enemigo>
+			<nombre>1</nombre>
+			<vitalidad>1</vitalidad>
+			<daño>1</daño>
+			<defensa>1</defensa>
+			<frequencia>1</frequencia>
+			<experiencia>1</experiencia>
+			<cojuntoarmas>
+				<arma>
+					<id>1</id>
+					<tipo><1/tipo>
+					<alcance>1</alcance>
+				</arma>	
+			</conjuntoarmas>
+		</enemigo>
+		
+		<enemigo>
+			<nombre>1</nombre>
+			<vitalidad>1</vitalidad>
+			<daño>1</daño>
+			<defensa>1</defensa>
+			<frequencia>1</frequencia>
+			<experiencia>1</experiencia>
+			<conjuntoarmas>
+				<arma>
+					<id>1</id>
+					<tipo>1</tipo>
+					<alcance>1</alcance>
+				</arma>
+			</conjuntoarmas>
+		</enemigo>
+		
+	</enemigos>
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+			
+	
+
+		
+		
+		
+		
+			
+
+	
